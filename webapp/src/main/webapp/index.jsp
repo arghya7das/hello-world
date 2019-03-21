@@ -1,5 +1,5 @@
 <html>
-<head><title>Love Of My Life</title></head>
+<head><title>Silly Con</title></head>
 <body>
   <%
     double num = Math.random();
@@ -13,7 +13,8 @@
   <%
     }
   %>
-  <a href="<%= request.getRequestURI() %>"><h3>Astala Bista Baby...... Booooooomb</h3></a>
+  <a href="<%= request.getRequestURI() %>"><h3>Click Here</h3></a>
+  <h3> Hello Everyone..... </h3>
 </body>
 </html>
 
