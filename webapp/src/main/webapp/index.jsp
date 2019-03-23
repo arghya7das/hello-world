@@ -14,7 +14,7 @@
     }
   %>
   <a href="<%= request.getRequestURI() %>"><h3>Click Here</h3></a>
-  <h3> Hello Everyone..... </h3>
+  <h3> Happy Holi to everyone..... </h3>
 </body>
 </html>
 
